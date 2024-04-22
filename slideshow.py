@@ -47,5 +47,6 @@ def move():
 # calling the function
 move()  
 
+### need to better handling
 root.mainloop()
 # function to change to next image 
